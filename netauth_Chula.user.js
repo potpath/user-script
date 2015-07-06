@@ -2,7 +2,7 @@
 // @name        netauth Chula
 // @description check accept agreement, auto focus captcha and submit
 // @include     https://netauth.it.chula.ac.th/user/Logon.do
-// @version     0.2
+// @version     1.1
 // @grant       none
 // @namespace https://greasyfork.org/users/4947
 // ==/UserScript==
